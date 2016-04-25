@@ -1,14 +1,14 @@
 --[[
 Autor       : Antonio Paulo
-Sobre       : Graduando em Ciência da Computação
+Sobre       : Graduando em CiÃªncia da ComputaÃ§Ã£o
 LP          : LUA
 File        : Algoritmo_11
 Repositorio : https://github.com/paulinhoneto/Algoritmo-Lua/tree/master/Volume_01
 
- *  Faça um algoritmo que leia dois valores para as variáveis A e B e
-    efetue a troca dos valores de forma que a variável A passe a possuir o
-	valor da variável B e a variável B passe a possuir o valor da variável A.
-	Apresente os valores trocados.
+ *  FaÃ§a um algoritmo que leia dois valores para as variÃ¡veis A e B e
+    efetue a troca dos valores de forma que a variÃ¡vel A passe a possuir o
+    valor da variÃ¡vel B e a variÃ¡vel B passe a possuir o valor da variÃ¡vel A.
+    Apresente os valores trocados.
 
 ]]--
 
@@ -23,10 +23,10 @@ A = io.read()
 io.write("Entre com o valor de B : ")
 B = io.read()
 
-io.write("Valores de A e B antes da troca são respectivamente ", A , " e ", B , "\n")
+io.write("Valores de A e B antes da troca sÃ£o respectivamente ", A , " e ", B , "\n")
 
 AUX = A
   A = B
   B = AUX
 
-io.write("valores de A e B após a troca são respectivamente ", A , " e ", B , "\n")
+io.write("valores de A e B apÃ³s a troca sÃ£o respectivamente ", A , " e ", B , "\n")
