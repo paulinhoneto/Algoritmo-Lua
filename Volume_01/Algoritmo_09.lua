@@ -22,3 +22,7 @@ dobro = numero * 2
 
 -- saída
 io.write("O dobro do numero", numero, " é : ", dobro, "\n")
+
+
+
+
