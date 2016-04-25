@@ -1,30 +1,30 @@
 --[[
 Autor       : Antonio Paulo
-Sobre       : Graduando em Ciência da Computação
+Sobre       : Graduando em CiÃªncia da ComputaÃ§Ã£o
 LP          : LUA
-File        : Algoritmo_07
+File        : Algoritmo_10
 Repositorio : https://github.com/paulinhoneto/Algoritmo-Lua/tree/master/Volume_01
 
- *  Faça um algoritmo que leia um número e imprima seu quadrado e seu cubo.
+ *  FaÃ§a um algoritmo que leia um nÃºmero e imprima seu quadrado e seu cubo.
 
 ]]--
 
--- inicializa e declara variáveis
+-- inicializa e declara variÃ¡veis
 local numero
 local quadrado
 local triplo
 
 -- exibe no console
 io.write("Entre com um numero : ")
-numero = io.read() -- lê número
+numero = io.read() -- lÃª nÃºmero
 
 -- processamento
 quadrado = numero * numero
 cubo     = numero * numero * numero
 
--- saída
-io.write("Quadrado do número ", numero, " é : ", quadrado, "\n")
-io.write("Cubo do número ", numero, " é : ", cubo, "\n")
+-- saÃ­da
+io.write("Quadrado do nÃºmero ", numero, " Ã© : ", quadrado, "\n")
+io.write("Cubo do nÃºmero ", numero, " Ã© : ", cubo, "\n")
 
 
 
