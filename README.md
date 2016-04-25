@@ -33,4 +33,9 @@ Galera eu Antonio Paulo estou Desenvolvendo um projeto em Linguagem de programa�
    que leia o peso do prato montado pelo cliente (em quilos) e imprima o valor a pagar. Assuma que a
    balança já desconte o peso do prato
 
+[Algoritmo_09](https://github.com/paulinhoneto/Algoritmo-Lua/blob/master/Volume_01/Algoritmo_09.lua)
+ * Faça um algoritmo que leia um número e imprima seu dobro.
+ 
+[Algoritmo_10](https://github.com/paulinhoneto/Algoritmo-Lua/blob/master/Volume_01/Algoritmo_10.lua)
+ * Faça um algoritmo que leia um número e imprima seu quadrado e seu cubo.
 
