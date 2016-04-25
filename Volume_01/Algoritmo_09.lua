@@ -1,24 +1,24 @@
 --[[
 Autor       : Antonio Paulo
-Sobre       : Graduando em Ciência da Computação
+Sobre       : Graduando em CiÃªncia da ComputaÃ§Ã£o
 LP          : LUA
-File        : Algoritmo_07
+File        : Algoritmo_09
 Repositorio : https://github.com/paulinhoneto/Algoritmo-Lua/tree/master/Volume_01
 
- *  Faça um algoritmo que leia um número e imprima seu dobro.
+ *  FaÃ§a um algoritmo que leia um nÃºmero e imprima seu dobro.
 
 ]]--
 
--- declara e inicial variáveis
+-- declara e inicial variÃ¡veis
 local numero = Nil
 local dobro  = Nil
 
 -- exibe no console
-io.write("Entre com um número : ")
+io.write("Entre com um nÃºmero : ")
 numero = io.read()
 
 -- processamento
 dobro = numero * 2
 
--- saída
-io.write("O dobro do numero", numero, " é : ", dobro, "\n")
+-- saÃ­da
+io.write("O dobro do numero", numero, " Ã© : ", dobro, "\n")
