@@ -1,6 +1,6 @@
 # Algortimo-Lua
 
-Galera estou Desenvolvendo um projeto em Linguagem de programação LUA eu, Antonio Paulo que estimula iniciantes ou pessoas que tenham interesse na linguagem e a aprenderem a programar. Estou organizando nesse repositório GitHub, e dividirei em níveis de desenvolvimento (iniciante, médio e avançado). Dentro de cada diretório ou projeto terá um algoritmo, por enquanto estamos desenvolvendo o volume 1 que conterá apenas algoritmos sequenciais. As descrições desses algoritmos sequencias estão em forma de comentários nos topos dos arquivos Algoritmo_01.lua.
+Galera eu Antonio Paulo estou Desenvolvendo um projeto em Linguagem de programação LUA ,que visa estimular iniciantes ou pessoas que tenham interesse na linguagem e a aprenderem a programar. Estou organizando nesse repositório GitHub, e dividirei em níveis de desenvolvimento (iniciante, médio e avançado). Dentro de cada diretório ou projeto terá um algoritmo, por enquanto estamos desenvolvendo o volume 1 que conterá apenas algoritmos sequenciais. As descrições desses algoritmos sequencias estão em forma de comentários nos topos dos arquivos Algoritmo_01.lua.
 
 [Algoritmo_01](https://github.com/paulinhoneto/Algoritmo-Lua/blob/master/Volume_01/Algoritmo_01.lua)
  * Crie um algoritmo que converta Celsius em Fahrenheit
