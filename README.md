@@ -39,3 +39,7 @@ Galera eu Antonio Paulo estou Desenvolvendo um projeto em Linguagem de programa�
 [Algoritmo_10](https://github.com/paulinhoneto/Algoritmo-Lua/blob/master/Volume_01/Algoritmo_10.lua)
  * Faça um algoritmo que leia um número e imprima seu quadrado e seu cubo.
 
+[Algoritmo_11](https://github.com/paulinhoneto/Algoritmo-Lua/blob/master/Volume_01/Algoritmo_11.lua)
+ * Faça um algoritmo que leia dois valores para as variáveis A e B e efetue a troca
+   dos valores de forma que a variável A passe a possuir o valor da variável B e a
+   variável B passe a possuir o valor da variável A. Apresente os valores trocados.
